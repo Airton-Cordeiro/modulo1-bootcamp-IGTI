@@ -1,1 +1,26 @@
-{"nextId":6,"accounts":[{"id":1,"name":"Airton Cordeiro","balance":10000},{"id":2,"name":"Airton Cordeiro","balance":15000},{"id":3,"name":"José Carlos","balance":150},{"id":4,"date":"2021-08-12T20:36:30.158Z","name":"José Carlos","balance":150},{"id":5,"name":"José Silva","balance":100}]}
+{
+  "nextId": 6,
+  "accounts": [
+    {
+      "id": 2,
+      "name": "Airton Cordeiro",
+      "balance": 15000
+    },
+    {
+      "id": 3,
+      "name": "José Carlos",
+      "balance": 150
+    },
+    {
+      "id": 4,
+      "date": "2021-08-12T20:36:30.158Z",
+      "name": "José Carlos",
+      "balance": 150
+    },
+    {
+      "id": 5,
+      "name": "José Silva",
+      "balance": 100
+    }
+  ]
+}
